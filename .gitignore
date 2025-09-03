@@ -1,0 +1,18 @@
+# Icarus/GTKWave
+sim/build/
+*.vvp
+*.vcd
+
+# Quartus
+quartus/**/db/
+quartus/**/incremental_db/
+quartus/**/output_files/
+quartus/**/greybox_tmp/
+quartus/**/simulation/
+*.rpt
+*.qws
+
+# System
+.DS_Store
+Thumbs.db
+*.swp
